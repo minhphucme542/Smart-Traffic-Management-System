@@ -24,7 +24,7 @@ The proposed system is an Automated Traffic Management System that calculates tr
 
 The system has a working prototype, demonstrated in the following video:
 
-![alt text](mart-Traffic-Management-System/blob/master/demo/videoplayback.gif)
+![alt text](demo/videoplayback.gif)
 
 **Legend:**
 
@@ -35,6 +35,6 @@ The system has a working prototype, demonstrated in the following video:
 
 The system also has a mobile app, showcased in the following images:
 
-![alt text](demo/WhatsApp%20Image%202019-03-18%20at%201.25.43%20PM.jpeg)  ![alt text](https://github.com/codefeeder/Smart-Traffic-Management-System/blob/master/demo/WhatsApp%20Image%202019-03-18%20at%201.25.44%20PM.jpeg)
+![alt text](demo/WhatsApp%20Image%202019-03-18%20at%201.25.43%20PM.jpeg)  ![alt text](demo/WhatsApp%20Image%202019-03-18%20at%201.25.44%20PM.jpeg)
 
 Let me know if you'd like me to make any further changes!
