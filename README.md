@@ -2,7 +2,7 @@
 
 ## Overview
 
-----------
+---
 
 The proposed system is an Automated Traffic Management System that calculates traffic light duration using a weighted mean of two factors:
 
@@ -11,14 +11,14 @@ The proposed system is an Automated Traffic Management System that calculates tr
 
 ## APIs Used
 
-----------
+---
 
 -   MapMyIndia
 -   Azure
 
 ## Demo
 
-----------
+---
 
 ### Working Prototype
 
