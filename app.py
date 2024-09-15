@@ -8,7 +8,7 @@ from yolo.logic import time_update
 
 app = Flask(__name__)
 
-api_key = 'up87un4nhriz1agk873vtsjwppy47hgd'
+api_key = '<your_mapmyindia_api_key>'
 
 url1 = f'http://apis.mapmyindia.com/advancedmaps/v1/{api_key}/distance?center=12.921288,77.668916%7C&pts=12.922310,77.668916'
 url2 = f'http://apis.mapmyindia.com/advancedmaps/v1/{api_key}/distance?center=12.922310,77.668916%7C&pts=12.922610,77.669872'
